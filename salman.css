@@ -1,0 +1,20 @@
+h2,p {
+    font-family: "Figtree", sans-serif;
+
+}
+
+
+.salman {
+    display: flex;
+    justify-content: space-between;
+
+}
+.p{
+    text-align: justify;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+.img{
+   
+    
+}
